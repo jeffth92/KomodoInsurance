@@ -1,0 +1,12 @@
+C:\Users\jefft\source\repos\KomodoInsc\bin\Debug\KomodoInsc.exe.config
+C:\Users\jefft\source\repos\KomodoInsc\bin\Debug\KomodoInsc.exe
+C:\Users\jefft\source\repos\KomodoInsc\bin\Debug\KomodoInsc.pdb
+C:\Users\jefft\source\repos\KomodoInsc\obj\Debug\KomodoInsc.csproj.AssemblyReference.cache
+C:\Users\jefft\source\repos\KomodoInsc\obj\Debug\KomodoInsc.csproj.CoreCompileInputs.cache
+C:\Users\jefft\source\repos\KomodoInsc\obj\Debug\KomodoInsc.exe
+C:\Users\jefft\source\repos\KomodoInsc\obj\Debug\KomodoInsc.pdb
+C:\Users\jefft\source\repos\KomodoInsc\bin\Debug\Developer.dll
+C:\Users\jefft\source\repos\KomodoInsc\bin\Debug\DevTeam.dll
+C:\Users\jefft\source\repos\KomodoInsc\bin\Debug\Developer.pdb
+C:\Users\jefft\source\repos\KomodoInsc\bin\Debug\DevTeam.pdb
+C:\Users\jefft\source\repos\KomodoInsc\obj\Debug\KomodoInsc.csproj.CopyComplete

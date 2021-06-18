@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoInsc", "KomodoInsc.csproj", "{6B4CA036-3AE5-4B45-A53E-BCA8CB094297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Developer", "..\Developer\Developer.csproj", "{E4D6195E-664F-41B9-8DA1-D3C15E8E2290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTeam", "..\DevTeam\DevTeam.csproj", "{9DDFE8C3-4FEE-4241-B851-730C8CF9AB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4CA036-3AE5-4B45-A53E-BCA8CB094297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4CA036-3AE5-4B45-A53E-BCA8CB094297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4CA036-3AE5-4B45-A53E-BCA8CB094297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4CA036-3AE5-4B45-A53E-BCA8CB094297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D6195E-664F-41B9-8DA1-D3C15E8E2290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D6195E-664F-41B9-8DA1-D3C15E8E2290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D6195E-664F-41B9-8DA1-D3C15E8E2290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D6195E-664F-41B9-8DA1-D3C15E8E2290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDFE8C3-4FEE-4241-B851-730C8CF9AB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDFE8C3-4FEE-4241-B851-730C8CF9AB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDFE8C3-4FEE-4241-B851-730C8CF9AB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDFE8C3-4FEE-4241-B851-730C8CF9AB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B154255-67CA-436C-B7D8-034E175365CF}
+	EndGlobalSection
+EndGlobal
