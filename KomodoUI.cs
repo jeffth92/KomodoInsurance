@@ -86,7 +86,7 @@ namespace KomodoUserInterface
                               "1. Enter New DevTeams\n" +
                               "2. Add members to DevTeams\n" +
                               "3. List Current DevTeams\n" +
-                              "4. Return to Menu");
+                              "4. -Return to Menu");
                             //input
                             string teamMenuSelect = Console.ReadLine();
                             //eval/act
