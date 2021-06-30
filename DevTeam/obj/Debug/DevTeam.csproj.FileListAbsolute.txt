@@ -1,0 +1,9 @@
+C:\Users\jefft\source\repos\DevTeam\bin\Debug\DevTeam.dll
+C:\Users\jefft\source\repos\DevTeam\bin\Debug\DevTeam.pdb
+C:\Users\jefft\source\repos\DevTeam\bin\Debug\Developer.dll
+C:\Users\jefft\source\repos\DevTeam\bin\Debug\Developer.pdb
+C:\Users\jefft\source\repos\DevTeam\obj\Debug\DevTeam.csproj.AssemblyReference.cache
+C:\Users\jefft\source\repos\DevTeam\obj\Debug\DevTeam.csproj.CoreCompileInputs.cache
+C:\Users\jefft\source\repos\DevTeam\obj\Debug\DevTeam.csproj.CopyComplete
+C:\Users\jefft\source\repos\DevTeam\obj\Debug\DevTeam.dll
+C:\Users\jefft\source\repos\DevTeam\obj\Debug\DevTeam.pdb

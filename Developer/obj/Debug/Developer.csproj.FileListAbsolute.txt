@@ -1,0 +1,6 @@
+C:\Users\jefft\source\repos\Developer\bin\Debug\Developer.dll
+C:\Users\jefft\source\repos\Developer\bin\Debug\Developer.pdb
+C:\Users\jefft\source\repos\Developer\obj\Debug\Developer.csproj.AssemblyReference.cache
+C:\Users\jefft\source\repos\Developer\obj\Debug\Developer.csproj.CoreCompileInputs.cache
+C:\Users\jefft\source\repos\Developer\obj\Debug\Developer.dll
+C:\Users\jefft\source\repos\Developer\obj\Debug\Developer.pdb
